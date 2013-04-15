@@ -2,7 +2,7 @@
 
 int main(){
 
-	printf("\n Hello WorldofWarcraft \n");
+	printf("\n Hello WorldofWarcraft.. wow\n");
 
 	return 0;
 }
